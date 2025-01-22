@@ -19,7 +19,7 @@ export const LocationCreate = () => {
     sort: { field: "name", order: "ASC" },
     filter: {},
   });
-
+ 
   console.log("data",locations);
 
   const filteredParentLocation = locations?.filter(
