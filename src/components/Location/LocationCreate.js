@@ -4,10 +4,10 @@ import React, { useState } from "react";
 import {
   Create,
   SimpleForm,
-  TextInput,
   FileInput,
   FileField,
   SelectInput,
+  TextInput,
   BooleanInput,
   useGetList,
 } from "react-admin";
@@ -25,6 +25,9 @@ export const LocationCreate = () => {
   const filteredParentLocation = locations?.filter(
     (location) => location.parent_id == null || location.parent_id == undefined || location.parent_id == ""
   );
+  // const filteredParentLocation = locations?.filter(
+  //   (location) => location.parent_id == null || location.parent_id == undefined || location.parent_id == ""
+  // );
   
   console.log("filteredParentLocation",filteredParentLocation);
 
