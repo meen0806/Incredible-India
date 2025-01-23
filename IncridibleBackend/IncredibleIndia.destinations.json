@@ -1,0 +1,699 @@
+[{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e574"
+  },
+  "id": 3,
+  "name": "Valley of Flowers in Uttarakhand",
+  "description": "A UNESCO World Heritage site known for its vibrant flowers, attracting trekkers and photographers.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1487456405/photo/valley-of-flowers.jpg?s=612x612&w=0&k=20&c=Lr4cLcSYlPVf_Twl91dUqR01VEJQ8FvE-CsG95Ym1ig=",
+    "https://media.istockphoto.com/id/1307342932/photo/valley-of-flowers.jpg?s=612x612&w=0&k=20&c=ANlvTJ_RrcefT2duJuZZWpyxx4a2tunAE5v4Mi-JFzg=",
+    "https://media.istockphoto.com/id/1223790082/photo/beautiful-mountains-in-the-valley-of-flowers.jpg?s=612x612&w=0&k=20&c=HHgwItj6Fx7CrUdokl2haCGRxIyxK4lnbDU7gZVnl_w=",
+    "https://media.istockphoto.com/id/1284946015/photo/rare-himalayan-flowers-of-hight-altitude-in-india.jpg?s=612x612&w=0&k=20&c=zWE3C3yeJ6YLmdQflsKni63_8ZWRPHosOuhp4VDrchw=",
+    "https://media.istockphoto.com/id/1284941823/photo/flower-of-himalayas-brahma-kamal-scientific-name-saussurea-obvallata.jpg?s=612x612&w=0&k=20&c=QVT3verG6nB4fXYny0eouQcO1LFPDLoCpXLiTJzTJ-4="
+  ],
+  "state": "Uttarakhand",
+  "bestTimeToVisit": "July to September",
+  "idealDuration": "1 day (stay), 6 days (trek)",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Jolly Grant Airport, Dehradun (284 km), then a cab to Joshimath.",
+    "byTrain": "Rishikesh station (273 km), then a taxi or bus.",
+    "byRoad": "Bus or taxi from Rishikesh or Chamoli."
+  },
+  "__v": 1,
+  "url": []
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e575"
+  },
+  "id": 4,
+  "name": "Dal Lake in Srinagar",
+  "description": "The serene Dal Lake, also known as the Lake of Flowers, is a must-visit. A shikara ride on the lake is a unique experience.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/498628231/photo/lake-of-blue-water.jpg?s=612x612&w=0&k=20&c=J211ukOSsh8KJqHPVhw5k8ndzDBChLNtJ44dzeKq8rA=",
+    "https://media.istockphoto.com/id/1078512816/photo/dal-lake.jpg?s=612x612&w=0&k=20&c=Un0SkIsxPPbRCoyHiMJxLXUUela9cb8G75L3pPcqIbM=",
+    "https://media.istockphoto.com/id/1155225100/photo/boat-in-dal-lake.jpg?s=612x612&w=0&k=20&c=jcok_q6iitIAqDLPL9L57WvfUR-9vh5BPf18Fbi7yNQ=",
+    "https://media.istockphoto.com/id/899087286/photo/waterplants-on-dal-lake-srinagar-kashmir-india.jpg?s=612x612&w=0&k=20&c=eg1bh74yfxt1qi8WdQtQ8VOGpeZjT4Jp4ozay3Rg2IQ=",
+    "https://media.istockphoto.com/id/1328320922/photo/a-variety-of-colorful-boathouses-beautiful-lake-and-mountain-views.jpg?s=612x612&w=0&k=20&c=il9i-wFJZBcm7TqSRvF1s_AunmoSfKaJ8EYeRi19o_Y="
+  ],
+  "state": "Jammu & Kashmir",
+  "bestTimeToVisit": "May to November",
+  "idealDuration": "1 day",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Srinagar International Airport (22 km).",
+    "byTrain": "Jammu station (272 km).",
+    "byRoad": "Taxi or bus from Jammu."
+  },
+  "__v": 1,
+  "url": []
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e576"
+  },
+  "id": 5,
+  "name": "Munnar in Kerala",
+  "description": "Idyllic hill station in the Western Ghats, famous for tea plantations and rolling hills.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/511119924/photo/tea-plantations-and-river-in-hills-kerala-india.jpg?s=612x612&w=0&k=20&c=pYHem1q8SIdCC7t7pv3s6QM1ZrmU3nkCoSaEQMg8vqg=",
+    "https://media.istockphoto.com/id/1160316337/photo/tea-plantations.jpg?s=612x612&w=0&k=20&c=5gj1mezzy3cHlCQcqiOIM8pLBLeMyWoxW3e_R57eyv8=",
+    "https://media.istockphoto.com/id/1347088244/photo/kerala-most-beautiful-place-of-india.jpg?s=612x612&w=0&k=20&c=oBVJ6rUfq1YOua_4Oqhj0B1TFwcMFhniaysLJEN_eh8=",
+    "https://media.istockphoto.com/id/506921458/photo/western-ghats-mountains.jpg?s=612x612&w=0&k=20&c=Kalt0aRM5vG83bFKN4IlYJFt6ZiQSbkynOKwO0trnVw=",
+    "https://media.istockphoto.com/id/1178986822/photo/mattupatti-dam-near-munar-hill-station-kerala-india.jpg?s=612x612&w=0&k=20&c=iWBt-MNXt24CdY-oW2AGgU7zeC9d0OWd6-MIlNl9Yc0="
+  ],
+  "state": "Kerala",
+  "bestTimeToVisit": "October to November",
+  "idealDuration": "3 days",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Cochin International Airport (104 km), then a cab.",
+    "byTrain": "Cochin station (125 km), then a cab.",
+    "byRoad": "Buses from major Kerala cities."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e577"
+  },
+  "id": 6,
+  "name": "Dudhsagar Falls in Goa",
+  "description": "A majestic 4-tiered waterfall known for its powerful flow and trekking opportunities.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1200790835/photo/the-huge-waterfall-dudhsagar-and-the-railway-bridge-passing-through-it-karnataka-india.jpg?s=612x612&w=0&k=20&c=TO892D0T6x9DCxnpCwblJWKwGBg6IoFSnK_PPrwR82Y=",
+    "https://media.istockphoto.com/id/492804402/photo/beautiful-view-of-the-dudhsagar-waterfall-in-goa-india.jpg?s=612x612&w=0&k=20&c=iHjyurTFG8914gOOO2z3H5QedTuhL8gZX4XqXgBHvh8=",
+    "https://media.istockphoto.com/id/1743271780/photo/dudhsagar-waterfall.jpg?s=612x612&w=0&k=20&c=uwmUFsK9Mg_dnVmvB-acVVLUeTMa75Nbr52gjxPvXDk=",
+    "https://media.istockphoto.com/id/514159024/photo/dudhsagar-falls-in-karnataka-india.jpg?s=612x612&w=0&k=20&c=1Tyk5_W7J4wC6NDqEgK8z7exiuFn2hPLq9SIFF4aWbA=",
+    "https://media.istockphoto.com/id/1006720966/photo/nature-views-leading-to-dudhsagar-falls.jpg?s=612x612&w=0&k=20&c=Zay5kvGG4GSzmUAxfLrFaEqStJqU4cjZAs3EAVuiKSk="
+  ],
+  "state": "Goa",
+  "bestTimeToVisit": "November to February",
+  "idealDuration": "1 day",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Dabolim Airport, then a cab to Mollem Village.",
+    "byTrain": "Madgaon station, then trek from Kullem.",
+    "byRoad": "Taxi to Mollem Village, then jeep to the falls."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e578"
+  },
+  "id": 7,
+  "name": "Yumthang Valley in Sikkim",
+  "description": "A remote valley offering stunning views of snow-capped mountains, pastures, hot springs, and flowers.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/962097250/photo/purple-flowers-or-himalayan-primrose-at-yumthang-valley-sikkim-india.jpg?s=612x612&w=0&k=20&c=JmlSu5u4-JwWv4wqBXEcCHxfDJxRQGDwahptXasjIUM=",
+    "https://media.istockphoto.com/id/508546735/photo/thangu-valley.jpg?s=612x612&w=0&k=20&c=WpvUBtSbf_G1PZp7tJjfjcRI-AgsNhrmiSA7IQw_YD8=",
+    "https://media.istockphoto.com/id/642482388/photo/teesta-river-flowing-through-the-yumthang-valley-in-sikkim-india.jpg?s=612x612&w=0&k=20&c=L_MqocqwumsJ0hyASWVxe0enUzuBMUhkY-xtO2mIK6U=",
+    "https://media.istockphoto.com/id/487523661/photo/yumthang-valley-or-valley-of-flowers-located-in-the-north-sikkim.jpg?s=612x612&w=0&k=20&c=20gMuD0u-W04gV5m5h7zQ78eJVEzxsm4qkAYEhVitAs=",
+    "https://media.istockphoto.com/id/1192234727/photo/yumthang-valley.jpg?s=612x612&w=0&k=20&c=tCOc8RPJvxepUg1OnHMyHss9dQ0omdVAXFLBqiEmiKU="
+  ],
+  "state": "Sikkim",
+  "bestTimeToVisit": "September to December",
+  "idealDuration": "2 days",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Bagdogra Airport (220 km), then a cab.",
+    "byTrain": "New Jalpaiguri station (214 km), then a jeep or taxi to Gangtok.",
+    "byRoad": "Taxi from Gangtok."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e579"
+  },
+  "id": 8,
+  "name": "Tawang in Arunachal Pradesh",
+  "description": "Known for its stunning blue lakes, passes with amazing views, verdant greenery, and tranquil monasteries.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1165696115/photo/tawang.jpg?s=612x612&w=0&k=20&c=m3fN2T_6m10bKN48lfH2gWq_tgyXeV5K9QacR30CZ7I=",
+    "https://media.istockphoto.com/id/458127421/photo/sela-pass-district-of-tawang-arunachal-pradesh-india.jpg?s=612x612&w=0&k=20&c=yBg1BRI6_QzIUIDukD6NS_EMfIDG7773UD0pWG8eEOQ=",
+    "https://media.istockphoto.com/id/484711920/photo/tawang-monastery-arunachal-pradesh.jpg?s=612x612&w=0&k=20&c=s0ic_pkK28PnX02apET6tprFiY3vvECUPKre7Gjjt5U=",
+    "https://media.istockphoto.com/id/471545029/photo/devotees-at-buddhist-monastery-tawang-arunachal-pradesh-india.jpg?s=612x612&w=0&k=20&c=VymgITArvm8CG6ESfv6xyydg2pdn5LORgK4FQFUDngI=",
+    "https://media.istockphoto.com/id/1281014632/photo/panoramic-view-of-tawang.jpg?s=612x612&w=0&k=20&c=Viga6LBcexjAFftiX1yz7K0DmHcz2fXTsQEfh2JUhFk="
+  ],
+  "state": "Arunachal Pradesh",
+  "bestTimeToVisit": "March to October",
+  "idealDuration": "5 days",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Salonibari Airport in Tezpur (323 km), then hire a Sumo.",
+    "byTrain": "Tezpur station (333 km), then a car.",
+    "byRoad": "Car from Guwahati to Tezpur, then a Bolero or Sumo to Tawang."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e57a"
+  },
+  "id": 9,
+  "name": "Sundarbans Mangrove in West Bengal",
+  "description": "A delta formed by the confluence of Ganga, Brahmaputra, and Meghna Rivers, home to the Royal Bengal Tiger and estuarine crocodiles.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1137893159/photo/jetty-approaching-path-at-sundarbans-riverbanks-the-pathway-leads-to-nearby-village.jpg?s=612x612&w=0&k=20&c=UswYkoEMHKpuXDVkQeNvCH91xKdy4nUtXyytWtotp-k=",
+    "https://media.istockphoto.com/id/2063312760/photo/partly-submerged-sundari-trees-during-high-tide-near-river-embankment-at-sundarbans-national.jpg?s=612x612&w=0&k=20&c=8AC9wotEWOZ8WACLcfxZiGC3PmZ5UGpkeDESQWUdRkI=",
+    "https://media.istockphoto.com/id/1786754606/photo/sunset-in-sundarbun-wet-lands.jpg?s=612x612&w=0&k=20&c=5oaAcE_kbABzzWzZtc_zddSDJyEjDw1rLjREItZaj7s=",
+    "https://media.istockphoto.com/id/2063311676/photo/partly-submerged-sundari-trees-during-high-tide-near-river-embankment-at-sundarbans-national.jpg?s=612x612&w=0&k=20&c=oxhZXgbnzgqwRwE3M4nuBa5mrVP0V0-nnDRSWo_b4fI=",
+    "https://media.istockphoto.com/id/2153659710/photo/the-bengal-tiger-from-indian-forests.jpg?s=612x612&w=0&k=20&c=I5GRigVr4cPelqrtmJKUJJPAdSqsUYdewsNuilxotb0="
+  ],
+  "state": "West Bengal",
+  "bestTimeToVisit": "September to March",
+  "idealDuration": "2-3 days",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Netaji Subhash Chandra Bose International Airport in Kolkata, then train to Canning.",
+    "byTrain": "Suburban train from Kolkata to Canning, then a bus or auto to Godkhali Port.",
+    "byRoad": "Taxi to Sonakhali, Namkhana, or Raidighi, then jetty ride to Sundarbans."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e57b"
+  },
+  "id": 10,
+  "name": "Ranthambore National Park in Rajasthan",
+  "description": "A sprawling national park known for its wildlife, including leopards, tigers, and marsh crocodiles, as well as the Ranthambore Fort.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1002038140/photo/walking-the-walk.jpg?s=612x612&w=0&k=20&c=gJatKXk9DboLmfupis-5Fzl_656nU-B6LJ6WcK32oc0=",
+    "https://media.istockphoto.com/id/1088382834/photo/tiger-in-its-habitat.jpg?s=612x612&w=0&k=20&c=7-40MIsM0rJWQXIceF7ZqZEYBTUXEtGmjCfh8dClLBQ=",
+    "https://media.istockphoto.com/id/915131612/photo/tiger-india.jpg?s=612x612&w=0&k=20&c=kpMXS9lmRG0CiYQt9zrLfbUXxP2y26FpJZ8CKUyI734=",
+    "https://media.istockphoto.com/id/1476114935/photo/ranthambhore-fort-in-ranthambhore-national-park-rajasthan-india.jpg?s=612x612&w=0&k=20&c=kAi9HQj2RBmPR7s0gL1Ujega5tREX8H0yFLMF_0nmxY=",
+    "https://media.istockphoto.com/id/1957648694/photo/the-breathtaking-jungle-scenery-of-ranthambore-national-park-in-rajasthan-india-asia.jpg?s=612x612&w=0&k=20&c=CClvgnXv3jEWtP8JNjTUtFLPFdpyXa4zPXHSjxpudBc="
+  ],
+  "state": "Rajasthan",
+  "bestTimeToVisit": "April to June",
+  "idealDuration": "2 days",
+  "category": "Popular-destination",
+  "categoryID": "1",
+  "howToReach": {
+    "byAir": "Jaipur International Airport (182 km), then a cab.",
+    "byTrain": "Sawai Madhopur station (14 km), then a cab.",
+    "byRoad": "Bus or cab from Jaipur, Jodhpur, Agra, etc."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e57c"
+  },
+  "id": 11,
+  "name": "Varanasi Ghats in Uttar Pradesh",
+  "description": "Find spiritual bliss in one of the oldest cities in the world, Varanasi. The Ghats here overlook the holy River Ganga and draw countless Hindu pilgrims every year. Funeral rites conducted at the Ghats are believed to offer Nirvana to souls. The uniquely charming atmosphere combines age-old beliefs, evening prayers with lamps and the scent of incense and camphor.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/827065008/photo/holy-town-varanasi-and-the-river-ganges.jpg?s=612x612&w=0&k=20&c=WHGBF2zwPkVMpAma832RbHrov6VwKIMXuDR3N2WmfGg=",
+    "https://media.istockphoto.com/id/1304671291/photo/varanasi.jpg?s=612x612&w=0&k=20&c=UpaQjGxt7byqAFoghVGASsvx0EsmvXjR9bo5tDLOc1M=",
+    "https://media.istockphoto.com/id/493916125/photo/the-city-and-ghats-of-varanasi.jpg?s=612x612&w=0&k=20&c=pfofwec2vaQwFQ4R2tYylvDzasxNsFrUJYiKUuWBhY0=",
+    "https://media.istockphoto.com/id/1382397693/photo/ghats-on-the-ganges-river.jpg?s=612x612&w=0&k=20&c=oaLxF5AqX6RpD1WHpvFV3-z7cq2dZWbO4dchFU75Ol0=",
+    "https://media.istockphoto.com/id/674871148/photo/golden-sunset-on-ghats-over-river-ganga-varanasi-india.jpg?s=612x612&w=0&k=20&c=548Gl09IrlCXjLpetnsVYhI3mabHPC4gE5ceqRmq6uA="
+  ],
+  "state": "Uttar Pradesh",
+  "bestTimeToVisit": "September end to March",
+  "idealDuration": "2 - 3 days",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": "Varanasi Airport is easy to reach from Mumbai, Delhi, and other major cities. You can hire a cab then.",
+    "byTrain": "Varanasi railway station can be reached easily from Delhi, Mumbai, and other major cities. You can then take a cab.",
+    "byRoad": "You can board a private, state-run or luxury bus from Lucknow to reach Varanasi."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e57d"
+  },
+  "id": 12,
+  "name": "Dawki in Meghalaya",
+  "description": "The quaint town of Dawki not only connects India and Bangladesh, but is also counted among the clean and beautiful places in India which are plastic-free. It is nestled in the green Jaintia Hills and is particularly famous for the Umngot River, which is crystal clear and breathtaking. The suspension bridge over the river is an attraction too.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1246070886/photo/lake-blue-water-surrendered-with-mountain-and-forest.jpg?s=612x612&w=0&k=20&c=HhJmPdjywfcOr1it5QEYbJEZ7ZUlOkzSQNAkiiqcU8k=",
+    "https://media.istockphoto.com/id/1182287778/photo/close-up-of-waterfall-in-shillong-in-motion-blurr-and-rocks-selective-focusing.jpg?s=612x612&w=0&k=20&c=xWb-h5Rscei_xuHEbP0FNZ-s265M0JWkGTyqbyeFsZw=",
+    "https://media.istockphoto.com/id/1753560751/photo/panorama-view-of-the-sunrise-in-laitkynsew-near-cherrapunji-meghalaya-india.jpg?s=612x612&w=0&k=20&c=LxZXWEJSgbWm6xSU8AJLQxBgZImaUXKdAdfYRgAw8sI=",
+    "https://media.istockphoto.com/id/1748978929/photo/nohkalikai-falls-is-the-tallest-plunge-waterfall-in-india.jpg?s=612x612&w=0&k=20&c=zf1Zz1dnEnkf16whg5NUeiBkMoZL5eOlHd5hb6jYDro=",
+    "https://media.istockphoto.com/id/1501769271/photo/seven-sisters-water-falls.jpg?s=612x612&w=0&k=20&c=aY52inndIDU1EiY1LqEtYXZq75QYt3yFn9GXQsNOA4Q="
+  ],
+  "state": "Meghalaya",
+  "bestTimeToVisit": "February to early March",
+  "idealDuration": "1 – 2 days",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": "The nearest airport is Guwahati Airport (196 km away), from where you can take a cab.",
+    "byTrain": "You can hire a cab after reaching Guwahati railway station, which is 173 km from Dawki.",
+    "byRoad": "You can take a cab from Guwahati to reach Dawki."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e57e"
+  },
+  "id": 13,
+  "name": "Bhedaghat in Madhya Pradesh",
+  "description": "Are you passionate about unique terrains? A visit to Bhedhaghat is a must then, owing to the craggy Marble Rocks you can witness here. Overlooking the River Narmada, this town’s allure lies in the boat rides it offers in between the marble mountains that reach up to 100 feet in height.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1414385842/photo/bhedaghat-marble-rocks.jpg?s=612x612&w=0&k=20&c=IEcWOsD2LuhHytukSqyx7aTTZ67xWxK3rzeWE-rPHuc=",
+    "https://media.istockphoto.com/id/1136751462/photo/dhuandar-waterfalls-bhedaghat-jabalur-madhyapradesh-india.jpg?s=612x612&w=0&k=20&c=gWHrbHj7rP5aMaJLSrFEINysm1A1CaQlWdosyfATj-4=",
+    "https://media.istockphoto.com/id/2060248080/photo/white-stream-of-dhuandhar-waterfall-on-narmada-river.jpg?s=612x612&w=0&k=20&c=4z7fyh0SpVK3dZFADP21h5zyV_1enOPmiXZeEMu1aAo=",
+    "https://media.istockphoto.com/id/1174372901/photo/bhedaghat-marble-rocks-it-is-situated-by-the-side-of-river-narmada-and-is-approximately-20-m.jpg?s=612x612&w=0&k=20&c=zSk8iJCD3WBa0zhK_pWrGsKI59UPvakqAh9V7Dc37Fk=",
+    "https://media.istockphoto.com/id/1136751072/photo/bhedaghat-marble-rocks-bhedaghat-jabalpur-india.jpg?s=612x612&w=0&k=20&c=eBUaZ0iGPd0zs-gCnzqPE-OhOOIv1H8W-0dQDNrqrmk="
+  ],
+  "state": "Madhya Pradesh",
+  "bestTimeToVisit": "September to March",
+  "idealDuration": "1 – 2 days",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": "Jabalpur Airport is 33 km away and you can take a cab from there.",
+    "byTrain": "Jabalpur railway station is 42 km away and you can hire a cab from there.",
+    "byRoad": "You can take a state-run bus or shared auto from Jabalpur."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e57f"
+  },
+  "id": 14,
+  "name": "Rann of Kutch in Gujarat",
+  "description": "Widely known as the salt desert or salt marsh of India, the Rann has an unusual barren beauty, especially on a moonlit night. If you wish to enjoy the lively colors, sounds, and scents of the Rann Utsav, plan your trip in November.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1248245938/photo/rann-festival-in-india.jpg?s=612x612&w=0&k=20&c=poKruB4X9IOXelYf9HFQZYFbndlzGoJGSkyOGortspA=",
+    "https://media.istockphoto.com/id/803612302/photo/multicolored-sunset-landscape-silhouette-of-the-great-rann-of-kutch-gujarat.jpg?s=612x612&w=0&k=20&c=NmO9VN5HWZLS2732Tlwv5RXdauoGMxwUl10x4FGAtm8=",
+    "https://media.istockphoto.com/id/1302467051/photo/various-views-of-the-rann-of-kutch.jpg?s=612x612&w=0&k=20&c=kd78WP38IuL-R23iXssaJ1NpuEJ2IJ4R3Y2YLxDPwO4=",
+    "https://media.istockphoto.com/id/1297056249/photo/sunset-at-the-rann-of-kutch.jpg?s=612x612&w=0&k=20&c=-TnjUveBOiSwZkDfqXWOn6lTZ87qwtjKhKoe0t_2sW4=",
+    "https://media.istockphoto.com/id/1321295174/photo/sunset-at-tent-city-of-great-rann-of-kutch-in-india.jpg?s=612x612&w=0&k=20&c=6U3wxilMnqsdU8MuxeMQvUCznBUAERXBWblk523F8TE="
+  ],
+  "state": "Gujarat",
+  "bestTimeToVisit": "November to February",
+  "idealDuration": "3 days",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": "The nearest airport is in Bhuj (80 km away) and can be reached from major cities. After you land, hire a cab or auto.",
+    "byTrain": "You can take a direct train from Mumbai to reach Bhuj (82 km from Rann) and then hire an auto or cab.",
+    "byRoad": "Take a cab or auto from Bhuj."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e580"
+  },
+  "id": 15,
+  "name": "Andaman and Nicobar Islands",
+  "description": "Among the most beautiful places in India for couples during winter, Andaman and Nicobar Islands rank high for their serenity, coral reefs, seafood joints, and are perfect for those who love to swim, snorkel, or dive and explore marine life. Gorgeous blue-green waters, verdant forests, and unforgettable sunsets add to the romance.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1040379102/photo/scenic-sea-beach-at-havelock-islands-andaman-india-at-sunset.jpg?s=612x612&w=0&k=20&c=SLg_actds7IqPJsTm7gadaDlJjctll_8tb9fkjhDu5Y=",
+    "https://media.istockphoto.com/id/1266075200/photo/andaman-sea-island-with-morning-sun-lighting.jpg?s=612x612&w=0&k=20&c=QiA1iufg8dKT7uPGckSdFVHZ-p3TfRQw71FyU6Bs9WM=",
+    "https://media.istockphoto.com/id/1480901115/photo/andaman-island.jpg?s=612x612&w=0&k=20&c=pCV7gcVp-k7DeQ-9_aOsSATR37nMjQZN-OC13-G480I=",
+    "https://media.istockphoto.com/id/1497583453/photo/andaman-island-landscapes.jpg?s=612x612&w=0&k=20&c=S_-JSkXeWQ0dYXJw2BZ43PfxgzJF0t4PBtm1guEG5FM=",
+    "https://media.istockphoto.com/id/1302245638/photo/aerial-view-of-a-pristine-beach-by-drone.jpg?s=612x612&w=0&k=20&c=8jBjV8TEtIMQVBbFduAt49b9Pmq4r0JbQ6lCUO3YlrE="
+  ],
+  "state": "Andaman and Nicobar Islands",
+  "bestTimeToVisit": "October to May",
+  "idealDuration": "5 days",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": "You can get direct flights from Kolkata, Vizag, and Chennai to the Veer Savarkar Airport in Port Blair. Then, hire a cab."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e581"
+  },
+  "id": 16,
+  "name": "Gulmarg in Jammu and Kashmir",
+  "description": "Admire nature in all its glory in Gulmarg, a hill station in the Baramulla district. With the Pir Panjal Range in its backdrop, Gulmarg is great for indulging in skiing, golfing, gondola rides, and leisurely pony rides.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1324667221/photo/winter-season-gulmarg-is-a-town-a-hill-station-a-popular-tourist-skiing-destination-kashmir.jpg?s=612x612&w=0&k=20&c=GOayYaaUZTps2mPPZCoWo2tTqIavkf6hljrvhdhAbr0=",
+    "https://media.istockphoto.com/id/1324055987/photo/snow-filled-farm-villages-and-rivers-on-the-way-from-srinagar-to-sonmarg-and-gulmarg.jpg?s=612x612&w=0&k=20&c=NOwfOufYsJKuAhYJC8-wzJzYvskmxqGSFZgdgjhhJ4I=",
+    "https://media.istockphoto.com/id/516364306/photo/snow-scape-with-mountains-and-trees-in-kashmir.jpg?s=612x612&w=0&k=20&c=ra-dObcecgA-CY3ToZ7REtTxp20AuXXS3FSiyH7CMjg=",
+    "https://media.istockphoto.com/id/1325208582/photo/winter-season-gulmarg-is-a-town-a-hill-station-a-popular-tourist-skiing-destination-kashmir.jpg?s=612x612&w=0&k=20&c=aUNPPvU_t2g5JzcK0wX8V1cFiiL9ysQ1XWJZq8rcelw=",
+    "https://media.istockphoto.com/id/1325207862/photo/winter-season-gulmarg-is-a-town-a-hill-station-a-popular-tourist-skiing-destination-kashmir.jpg?s=612x612&w=0&k=20&c=tgEJNxV2_vwnFeWjQl3FoIlVE709hL14hF5jXcgG8cE="
+  ],
+  "state": "Jammu and Kashmir",
+  "bestTimeToVisit": "March to June",
+  "idealDuration": "2 days",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": "Gulmarg is 57 km from Srinagar Airport and you can take a cab to cover the distance. The airport is well-connected to major cities.",
+    "byTrain": "You can take a bus or taxi from the Jammu Tawi railway station, which is 316 km away.",
+    "byRoad": "You can board a local bus or hire a jeep to travel from Srinagar (50 km away)."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e582"
+  },
+  "id": 17,
+  "name": "Sand dunes in Jaisalmer",
+  "description": "The color of gold, sand dunes in Jaisalmer are gently undulating, almost barren, and promise you an experience of a lifetime. A lazy camel ride over the crests and troughs can make for exclusive memories. You can enjoy vibrant cultural programs, bonfires, jeep safaris, or stare at the clear night sky.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/942152116/photo/thar-desert-jaisalmer-rajasthan-india-at-sunset-with-moody-sky.jpg?s=612x612&w=0&k=20&c=hnT7Zh-zAAyWCjzrxjyE9aOj4aXGgSOb81Wm671wwcM=",
+    "https://media.istockphoto.com/id/157288338/photo/beautiful-view-of-the-sky-and-sand-dunes.jpg?s=612x612&w=0&k=20&c=WiFJI3EDqmqzjBKJk5sWHtL2ac2nG-aGjpZXQcsU3c4=",
+    "https://media.istockphoto.com/id/1459308924/photo/indian-woman-dancing-on-a-sand-dune-desert-village-india.jpg?s=612x612&w=0&k=20&c=tVsTS6yc3rOhQJrWj5D3gzYYPHI6MSBtUK9Jx-n-3PE=",
+    "https://media.istockphoto.com/id/979315760/photo/tents-at-thar-desert-jaisalmer-used-by-tourist-on-desert-safari-at-jaisalmer-rajasthan-at.jpg?s=612x612&w=0&k=20&c=UH7n2VA-k46L16bLZaa1Ngc6NfaPVysrK26TClihyqA=",
+    "https://media.istockphoto.com/id/469672393/photo/rippled-sand-dunes-at-sunset.jpg?s=612x612&w=0&k=20&c=bMzRCf2gdGlc2xOvVrszBB0AhQ4aPxPmARiFTBjfLDU="
+  ],
+  "state": "Rajasthan",
+  "bestTimeToVisit": "October to February",
+  "idealDuration": "1 day for the dunes and 4 days for other sightseeing",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": " Jaisalmer Airport is 15 km from Jaisalmer city. Once you reach the city, hire a SUV or jeep to reach the dunes at around 40 km.",
+    "byTrain": " You can get a direct train from Jodhpur, Jaipur or Delhi to reach Jaisalmer. Then take a jeep or SUV.",
+    "byRoad": "You can board a bus from Jaipur or Jodhpur to reach Jaisalmer. Then take a jeep to reach the dunes."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e583"
+  },
+  "id": 18,
+  "name": "Mahabaleshwar in Maharashtra",
+  "description": "This gorgeous green hill station is nestled in the Western Ghats and known for impressive viewpoints like Arthur’s Seat, Elephant’s Head Point, Babington Point, and Lodwick Point. You can enjoy a tranquil boat ride on Venna Lake when you are not trekking along the peaks and valleys.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/2111438496/photo/24-march-2024-pratapgad-historic-maratha-fort-one-of-the-most-crucial-forts-of-shivaji.jpg?s=612x612&w=0&k=20&c=jtJFE-7cCr9udBcsxmDp988M7v0RqHyYtNX5IxQbGYc=",
+    "https://media.istockphoto.com/id/1319829481/photo/landscape-of-kates-point-in-mahabaleshwar-1280-meters-from-sea-level-and-offers-scenic-view.jpg?s=612x612&w=0&k=20&c=30ssgCdLdZBSia1RTK5sogETR2lFBn5WpBfzdB1wPUM=",
+    "https://media.istockphoto.com/id/1215679818/photo/western-ghat-of-india-mountain-range-at-mahabaleshwar-spread-across-the-maharashtra.jpg?s=612x612&w=0&k=20&c=AROSTPVuy5d-BsFhK0agosTa22XIeeBLQfDcX3-eY0Q=",
+    "https://media.istockphoto.com/id/2122772183/photo/24-march-2024-pratapgad-historic-maratha-fort-one-of-the-most-crucial-forts-of-shivaji.jpg?s=612x612&w=0&k=20&c=VIQj2ETz_ZBnaNrHr8fNsAUISbOsIsgYvmhAf6KPBbs=",
+    "https://media.istockphoto.com/id/1296818585/photo/sunset-in-mahabaleshwar-at-the-sunset-point.jpg?s=612x612&w=0&k=20&c=Pom3DEyf_5ot5q_xFPYOpao9WeFHHS9zyq2IYa7e2bA="
+  ],
+  "state": "Maharashtra",
+  "bestTimeToVisit": "October to February",
+  "idealDuration": "1 day for the dunes and 4 days for other sightseeing",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": " Jaisalmer Airport is 15 km from Jaisalmer city. Once you reach the city, hire a SUV or jeep to reach the dunes at around 40 km.",
+    "byTrain": " You can get a direct train from Jodhpur, Jaipur or Delhi to reach Jaisalmer. Then take a jeep or SUV.",
+    "byRoad": "You can board a bus from Jaipur or Jodhpur to reach Jaisalmer. Then take a jeep to reach the dunes."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e584"
+  },
+  "id": 19,
+  "name": "Hampi in Karnataka ",
+  "description": "This ancient village is a UNESCO World Heritage Site and one of those places in India to visit with family. History buffs will love the temple ruins that dot the landscape and date back to the Vijayanagara Empire. Apart from the stone chariot in front of the Vittala Temple site, take out time to admire the uneven terrain and rustic vibes.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/615077766/photo/impressive-virupaksha-temple.jpg?s=612x612&w=0&k=20&c=nFt_TTe-SaWZCqRpkWr5T7-GaGY59tyM-fAxK1L-058=",
+    "https://media.istockphoto.com/id/136232473/photo/achyuta-raya-temple-hampi-karnataka-india.jpg?s=612x612&w=0&k=20&c=iyApv09FCVZU1KitHzw0WyAsEoGEt4xE4ZsEjEQG8tQ=",
+    "https://media.istockphoto.com/id/1366793968/photo/india-hampi-beautiful-view-of-the-river-and-mountains.jpg?s=612x612&w=0&k=20&c=kEJ5M7oywTnXfG47Z7ymV5-mVFgI6tkDYXawqftOWt4=",
+    "https://media.istockphoto.com/id/1388949960/photo/unbelievable-ancient-temple-ruins-in-hampi-at-sunset-india.jpg?s=612x612&w=0&k=20&c=L6xy1dEKcuGjo1kSHy-NHn3pNXdwsz8UGbriFrhnrbs=",
+    "https://media.istockphoto.com/id/870739156/photo/hampi-landscape-karnataka-india.jpg?s=612x612&w=0&k=20&c=jQ24AkRQrfsWLadbVwbTW6l_mJRxDxa6VIeJJDNNf2E="
+  ],
+  "state": "Rajasthan",
+  "bestTimeToVisit": "October to February ",
+  "idealDuration": " 2-3 days ",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": " You can fly from Bangalore to Hubli Airport (168 km from Hampi) and then hire a cab.",
+    "byTrain": " The nearest railway station is Hospet Junction (at 13 km) and well connected to other places in India. You can then take a cab. ",
+    "byRoad": "  You can board a KSRTC bus from Bangalore to Hospet. Then, you can take a local bus or cab to reach Hampi. "
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e585"
+  },
+  "id": 20,
+  "name": "Mount Abu in Rajasthan ",
+  "description": "If a hill station in the middle of a massive desert is not nature’s miracle, we don’t know what is! Perched on a rocky and high plateau, this place is a part of the Aravalli Range. Visit the wondrous Dilwara Temples for their intricate carvings in white marble and enjoy boat rides on Nakki Lake.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1206473179/photo/mount-abu-hill-station-india.jpg?s=612x612&w=0&k=20&c=Fhf8cRmWE_qsyIzRDUgbM9B_8GQhqpO84Z04UyqQJOw=",
+    "https://media.istockphoto.com/id/1322194555/photo/mount-abu-hill-station-india.jpg?s=612x612&w=0&k=20&c=S4YYj7htf-m850N6WhF3xaaAPBMhcApEQUajAGbOYnQ=",
+    "https://media.istockphoto.com/id/1354729304/photo/sunset-at-mount-abu.jpg?s=612x612&w=0&k=20&c=FVoYwiWjMKhemHF8eXhAyLvzyHinA0z2UF_X9GAHXr0=",
+    "https://media.istockphoto.com/id/1279673300/photo/mount-abu-hill-station-india.jpg?s=612x612&w=0&k=20&c=136cuVcH1MKDY4f5CDzGBncOH3ocu8ucKTJ2iMza79k=",
+    "https://media.istockphoto.com/id/1303025349/photo/various-views-of-guru-shikhar-mt-abu.jpg?s=612x612&w=0&k=20&c=WXlhcdPwsRI3UPBKs4wqiD1BxzATTbB7rTo4UOf1cwc="
+  ],
+  "state": "Rajasthan",
+  "bestTimeToVisit": "November to February ",
+  "idealDuration": "2 days ",
+  "category": "Spiritual-destination",
+  "categoryID": "2",
+  "howToReach": {
+    "byAir": "Udaipur Airport is 183 km from Mount Abu. Hire a cab to cover the distance.",
+    "byTrain": "You can take a train from Delhi, Jaipur, Ahmedabad or Mumbai to reach Abu Road railway station. Then, take a cab.",
+    "byRoad": " You can board a state or private bus from Jaipur, Udaipur, Jaisalmer or Delhi. "
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e586"
+  },
+  "id": 21,
+  "name": "Agatti Island in Lakshadweep ",
+  "description": "If white beaches, swaying coconut trees, stunning turquoise waters and colourful marine life excite you, this island is the perfect vacation destination. Water skiing, snorkelling, boat rides, kayaking, scuba diving and sailing are some of the adventure activities this tropical paradise offers.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1325745081/photo/tropical-island-with-sandy-beach-palawan-philippines.jpg?s=612x612&w=0&k=20&c=drOaWqKD-eLspfv2jp8XfHeORmzSj8InX5sDjodRi38=",
+    "https://media.istockphoto.com/id/961111052/photo/cruising-off-the-coast-of-belize.jpg?s=612x612&w=0&k=20&c=yFTHuBheiXWSfmMQwttPzWFgChlDjqLr-WFFj1iUlcw=",
+    "https://media.istockphoto.com/id/1315897990/photo/twin-lagoon-on-paradise-island-with-sharp-limestone-rocks-tropical-travel-destination-coron.jpg?s=612x612&w=0&k=20&c=hXHAARwb_uoPF56aPi6V9gN0JvvyYYOgNED0eQ0kNA0=",
+    "https://media.istockphoto.com/id/636888154/photo/koror-island-in-palau-archipelago-part-of-micronesia-region.jpg?s=612x612&w=0&k=20&c=0ITc9WFUwMzmwu3IGcHhOSAP33uwC5fav3bmZVc0n74=",
+    "https://media.istockphoto.com/id/959654814/photo/seascape-of-caramoan-islands-camarines-sur-philippines.jpg?s=612x612&w=0&k=20&c=g-mNVkmSArXe4UyedRXtuc6aZl7QPO9iExd_pwwFePo="
+  ],
+  "state": "Lakshadweep",
+  "bestTimeToVisit": "January to March and October to December",
+  "idealDuration": "5 -6 days ",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": "You will get flights to the island from Kochi."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e587"
+  },
+  "id": 22,
+  "name": "Chikmagalur in Karnataka ",
+  "description": "Situated at the base of Mullayanagiri Range, this hill station is a verdant getaway known for its numerous coffee plantations. You can trek through forests and grasslands to reach the Mullayanagiri Peak or sight leopards, elephants and tigers at Bhadra Wildlife Sanctuary.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1096742248/photo/colors-of-india.jpg?s=612x612&w=0&k=20&c=QWEsyv_YUcB4jwaLi5UNPk__tjKpozxhCrChnOTfLws=",
+    "https://media.istockphoto.com/id/1210926170/photo/gaganachukki-and-bharachukki-falls-chamarajnagar-near-somanathapura-karnataka-india.jpg?s=612x612&w=0&k=20&c=5D8ujK7OiCO6MFxyVzj89hk7wetqAZnVt5dBgH6oJpQ=",
+    "https://media.istockphoto.com/id/170453225/photo/satoddi-waterfall.jpg?s=612x612&w=0&k=20&c=Dg0J7dyjSII9cUJuFO2bGEFPlw3rWxu15O_5h2Cgy0M=",
+    "https://media.istockphoto.com/id/1318482396/photo/shivanasamudra.jpg?s=612x612&w=0&k=20&c=EW5EiYnAQXKE75r19Tqj8gbBEmgI8TtjT6b5o7JQmZs=",
+    "https://media.istockphoto.com/id/1424554656/photo/panoramic-view-from-vindhyagiri-hill.jpg?s=612x612&w=0&k=20&c=uopuoHFuB1uxTcTAIm62UD8qRyRNVv0mGtdD4bnXhRA="
+  ],
+  "state": "Karnataka",
+  "bestTimeToVisit": " September to May ",
+  "idealDuration": "3 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": "You can fly to Mangalore Airport (158 km from Chikmagalur) and then hire a cab. ",
+    "byTrain": "The nearest railway station is in Kadur (at 39 km) from where you can take a cab. Or, you can reach Kadur by road from Bangalore city, via Tumkur and Arshikere. ",
+    "byRoad": " You can take a state or private bus from Mangalore, Bangalore, Hassan or Hubli. "
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e588"
+  },
+  "id": 23,
+  "name": "Emerald Lake in Ooty",
+  "description": "Surrounded by lush green hills of the Nilgiris, this picturesque lake is located in the silent valley and wows with its soothing blue-green waters. Fishing and boating are the popular activities you can indulge in here.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/537064629/photo/tea-plantations-around-the-emerald-lake-in-ooty.jpg?s=612x612&w=0&k=20&c=yEjt_jKZXxSFTvD97YmFUEXWdhVfuu4-7LAkgheVPBE=",
+    "https://media.istockphoto.com/id/537042193/photo/upper-bhavani-reservoir-in-nilgiris.jpg?s=612x612&w=0&k=20&c=7cEYERihBx_9gpTqkBFNl3yxSn5GaICUFguzabgtviY=",
+    "https://media.istockphoto.com/id/1354031351/photo/upper-solaiyar-dam-anaimalai-hills-valparai-coimbatore-tamil-nadu-india.jpg?s=612x612&w=0&k=20&c=T4IoFGuWUSQa6-SNynhCpWlUtAjMFV47Qi3v8Vh96iw=",
+    "https://media.istockphoto.com/id/957821088/photo/ooty-lake-in-india.jpg?s=612x612&w=0&k=20&c=crU7ttmba8UScmneIw8xinBK3DQKDkDW5zQ_wCxoa9o=",
+    "https://media.istockphoto.com/id/1153464403/photo/pykara-lake.jpg?s=612x612&w=0&k=20&c=seaddjZyl2e1P_PPmR7ZFX8pq9xwCrOtmssxLDGLUew="
+  ],
+  "state": "Tamil Nadu",
+  "bestTimeToVisit": " October to May ",
+  "idealDuration": "1 day",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": "Coimbatore International Airport is 107 km from Ooty. Once you reach Ooty, take a cab to reach the lake. ",
+    "byTrain": "You can take a train from Coimbatore, Chennai, Bangalore or Mysore to reach Mettupalayam railway station and then hire a cab. ",
+    "byRoad": " Board a private or government bus from Mysore, Chennai or Bangalore to reach Ooty, Then take a cab."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e589"
+  },
+  "id": 24,
+  "name": " Bir in Himachal Pradesh",
+  "description": "Quaint and tiny, Bir is a charming hamlet with the majestic Dhauladhar Range in its background. Home to many Tibetans, this town will steal your heart with its green expanses and monasteries. This place is famous for camping, paragliding, trekking and mountain biking. ",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1492518002/photo/mountain-landscape-with-green-grass-meadows-scenic-camping-himalayas-peaks-region-of-bir.jpg?s=612x612&w=0&k=20&c=SsLchY8OoBfGzyMdlcA57twhblC_Eq_X2jyKUe1ZzkM=",
+    "https://media.istockphoto.com/id/1351623814/photo/monastery-at-bir-billing-himachal.jpg?s=612x612&w=0&k=20&c=ATRxTApJ8H9tpB3VUVrCa4VfKPzq8N6YBpRme_2E5z4=",
+    "https://media.istockphoto.com/id/1368048700/photo/various-views-of-bir-billing.jpg?s=612x612&w=0&k=20&c=09uczW8o76daFOf1tjFB_A5sjg_GHGnXl9LwzPa_Fmo=",
+    "https://media.istockphoto.com/id/1368048943/photo/various-views-of-bir-billing.jpg?s=612x612&w=0&k=20&c=1noTZtv7WfbGEQS6Mxzb6g4mri-3NvgIMwzzTwOmHMI=",
+    "https://media.istockphoto.com/id/2157766884/photo/paragliders-over-the-bir-kasauli-hills-of-himachal-pradesh-india.jpg?s=612x612&w=0&k=20&c=2AZE1FMBRJAPpMPR2wJJSInNLqSH4jRC9NcwIr6RlEg="
+  ],
+  "state": "Hiamanchal Pradesh",
+  "bestTimeToVisit": "April to June",
+  "idealDuration": "4-5 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byTrain": "Take a train from Amritsar, Jalandhar, Jammu or Rourkela to reach Pathankot Junction (142 km from Bir). Then take a bus or taxi. ",
+    "byRoad": "You can board an overnight private bus from Delhi to reach Bir. Or, you can reach Dharamshala from Delhi by bus and then take a cab.  "
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e58a"
+  },
+  "id": 25,
+  "name": "Triveni Sangamam in Kanyakumari",
+  "description": "The southernmost tip of India is one of the wonderful places you can add to your wanderlust list. And the beach Triveni Sangamam is popular for witnessing the confluence of three seas – the Arabian Ocean, Bay of Bengal and Indian Ocean. Apart from capturing the natural beauty of the waves on your camera, take a holy dip too. ",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/497957344/photo/sunrise-at-kanyakumari.jpg?s=612x612&w=0&k=20&c=6RYGyxMUCHdOZISRBrkLHnTNcl2FwzMV3jMuEAqK3K4=",
+    "https://media.istockphoto.com/id/606634790/photo/unidentified-pilgrims-watch-sunrise.jpg?s=612x612&w=0&k=20&c=GpT6_kGnamTV8RL8RwB7Fkg2te9vn2D0GLSOVdbQGEQ=",
+    "https://media.istockphoto.com/id/1626972245/photo/beautiful-skyline-with-dramatic-clouds-at-kanyakumari-india-kanyakumari-vivekananda-rock.jpg?s=612x612&w=0&k=20&c=NyPzVgUtdl0ugt2XlGRweYGMS2Mz5GlTdGIzMvcC8J8=",
+    "https://media.istockphoto.com/id/1626670342/photo/kanyakumari-vivekananda-rock-memorial-thiruvalluvar-statue-photographs-while-sunrise-aerial.jpg?s=612x612&w=0&k=20&c=xVD7Ug5gf0g1kWDAIA0OCJYrI9YexboyxXTFlnlVx_s=",
+    "https://media.istockphoto.com/id/478310847/photo/southernmost-point-of-india-comorin-or-kanyakumari-tamilnadu-india.jpg?s=612x612&w=0&k=20&c=iKN5ot47rF8Ry-LHXUuhP3JpkCUbVo-Ge1DyL0KLn9w="
+  ],
+  "state": "Tamil Nadu",
+  "bestTimeToVisit": "December to February",
+  "idealDuration": "2 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": " The nearest airport is in Trivandrum (at 102 km), from where you can take a cab. ",
+    "byTrain": " Take a train to Kanyakumari railway station, which is 2 km from the Sangamam, and then take a bus, auto or taxi.  ",
+    "byRoad": "You can board a bus from any major South Indian city to reach Kanyakumari. Then take a cab, bus or auto.  "
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e58b"
+  },
+  "id": 26,
+  "name": "Auli in Uttarakhand ",
+  "description": "Snow-clad Himalayas and dense oak and coniferous forests make Auli a stunning place for nature lovers to seek peace and relaxation. Enjoy skiing at an altitude of around 2900 m or soak in scenic views from the ropeway that connects Auli with Joshimath.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1255138914/photo/top-hill-view-of-auli-uttarakhand-india.jpg?s=612x612&w=0&k=20&c=3MNCH1VfdFl4UA5lhrvyKp8MXoNMLN8eixGKD6LuiaU=",
+    "https://media.istockphoto.com/id/1288423536/photo/travelling-on-snow-covered-mountain-in-auli-uttarakhand-road-is-covered-with-snow-and-tress.jpg?s=612x612&w=0&k=20&c=2sQv2HCGRYGIv8JbWjLHHzfeAc69zX_G25uPM3ajjW4=",
+    "https://media.istockphoto.com/id/1343357648/photo/mount-nanda-devi-vith-beautiful-sky-india-himalaya.jpg?s=612x612&w=0&k=20&c=n4k7XrWueBaaRv6eAt6Kfs_3ZoEQYmQjbQQK_7JjfIE=",
+    "https://media.istockphoto.com/id/1220317248/photo/auli-uttarakhand-india.jpg?s=612x612&w=0&k=20&c=2k-xNjvZfcNby6kK4B8Pjg_h7ouOljP9uxLOsZgmhBM=",
+    "https://media.istockphoto.com/id/1308516413/photo/mount-nanda-devi-india-himalaya-mountain-landscape.jpg?s=612x612&w=0&k=20&c=nrGKipZ1v0VWm7x68qBVTLhAUBNjZ6MLNgSdlUAX3-M="
+  ],
+  "state": "Uttarakhand",
+  "bestTimeToVisit": "May to November (pleasant) and November to March (for skiing)",
+  "idealDuration": "3 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": "  Fly to Jolly Grant Airport in Dehradun (179 km from Auli) and then take a cab.  ",
+    "byTrain": " You can take a train from Delhi to reach Rishikesh railway station (192 km from Auli). Then take a bus or cab to reach Auli (before dusk). After dusk, you need to take the ropeway from Joshimath.",
+    "byRoad": " You can take a bus to reach Rishikesh from Delhi and then take a private car to reach Auli. "
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e58c"
+  },
+  "id": 27,
+  "name": "Wayanad in Kerala",
+  "description": "Among the most beautiful places to visit in India, the lush green and rustic district of Wayanad is a must mention. At a height of 2100m above sea level, it attracts trekkers and campers. From gorgeous flowers and waterfalls to exotic birds, animals and ancient caves, Wayanad has a lot to offer.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1211820195/photo/a-herd-of-wild-asian-elephants-feeding-in-the-periyar-river-kerala-india.jpg?s=612x612&w=0&k=20&c=qXwUrw1dgzdQhkqTqMrcr0i_QE2Oq7VWRCaPOoVgQP8=",
+    "https://media.istockphoto.com/id/1175506433/photo/munnar-during-monsoon-in-kerala-india.jpg?s=612x612&w=0&k=20&c=6hP5eTZWL_VSBSukWL_yb99awG1t90L7S_AtxW6hIH4=",
+    "https://media.istockphoto.com/id/2149218770/photo/kerala-is-the-most-beautiful-state-in-india.jpg?s=612x612&w=0&k=20&c=HcVfVKf446UmKVmF_9gcv7rCkHlPJFSgBfrdurmjFro=",
+    "https://media.istockphoto.com/id/1500593720/photo/a-beautiful-panoramic-scenery-from-the-banasura-sagar-dam-in-western-ghats-wayanad-kerala.jpg?s=612x612&w=0&k=20&c=9nVmDMHes0291NP_HKdPN2ypEWIBiH56DygQ6vlmsB0=",
+    "https://media.istockphoto.com/id/1178284503/photo/wayanad-hair-pin-bend-view-kerala-india.jpg?s=612x612&w=0&k=20&c=hY7sJQSyvDDHQaKRgquvJCbSczBvMi-X6mJc8Ouon5g="
+  ],
+  "state": "Kerala",
+  "bestTimeToVisit": "October to May",
+  "idealDuration": " 4-5 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": " Fly to Kozhikode International Airport and then take a cab to reach Wayanad (97 km away).  ",
+    "byTrain": " Kozhikode railway station is 85 km away, and you can take a cab or bus from there to reach Wayanad. Kozhikode is easy to reach from Kochi, Bengaluru or Chennai.",
+    "byRoad": " You can board a super fast bus from Mangalore, Bangalore, Kochi or Trivandrum."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e58d"
+  },
+  "id": 28,
+  "name": "Gandikota Canyon in Andhra Pradesh",
+  "description": "Located on the banks of the River Pennar, the Gandikota village is also a fort that was once a stronghold of Pemmasani Nayakas, the Golconda Sultanate and Kalyani Chalukyas. And the canyon is essentially the gorge created by the Pennar, offering amazing views. ",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1201996895/photo/indian-grand-canyon-in-gandikota-kadapa-andhra-pradesh-india.jpg?s=612x612&w=0&k=20&c=hiujCMX5YQV1y-8Ph-1ojWY2TgJouuy9HsMgNiZX6ew=",
+    "https://media.istockphoto.com/id/1353456702/photo/gandikota-canyon-kurnool-andhra-pradesh-india.jpg?s=612x612&w=0&k=20&c=kwkSbdx92GX_oZ0FzqK7Gua1XQUxQvFiBYsoiPRfua0=",
+    "https://media.istockphoto.com/id/1718716586/photo/silhouette-image-of-the-arch-during-sunrise-in-gandikota-grand-canyon-of-india-tourism-place.jpg?s=612x612&w=0&k=20&c=unsxBbdz4ZYgXXNsML-uzHVT-h91wW-I1G14ci7A07s=",
+    "https://media.istockphoto.com/id/1574638933/photo/gandikota-grand-canyon-of-india-tourism-place-located-at-kadapa-andhra-pradesh.jpg?s=612x612&w=0&k=20&c=OtYJ_46OJVlKg-kzaMPpIwi_KFqGU7pZ-VCVigtVmi4=",
+    "https://media.istockphoto.com/id/1706667825/photo/gandikota-grand-canyon-of-india-tourism-place-located-at-kadapa-andhra-pradesh.jpg?s=612x612&w=0&k=20&c=zEN0ljgiBAaDdMh4qw65vG_tP628E14w6XHSG3kULTs="
+  ],
+  "state": "Andhra Pradesh",
+  "bestTimeToVisit": "November to February",
+  "idealDuration": " 2 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": "  Fly to Bangalore (345 km from Gandikota) and then hire a cab.",
+    "byTrain": "Jammalamadugu railway station is 18 km from this town. You can get a direct train from Vijayawada Junction to Jammalamadugu and then take a taxi.",
+    "byRoad": " You can hire a cab from Bangalore to Gandikota."
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e58e"
+  },
+  "id": 29,
+  "name": "Gurudongmar Lake in Sikkim",
+  "description": "At a staggering elevation of 5430 m, this beautiful blue lake will blow your mind. The chilly water and pristine snow-clad mountains all around add to the unique appeal of this place. It is also considered sacred by Hindus, Buddhists and Sikhs.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/1003583336/photo/semi-frozen-gurudongmar-lake-of-sikkim-india.jpg?s=612x612&w=0&k=20&c=mxrWsvtXQ1fkU_YQbDwDm889U3WyUWWRc9vXh5UGNQo=",
+    "https://media.istockphoto.com/id/1095288988/photo/panoramic-view-of-gurudongmar-lake-sikkim-blue-still-water-skies-mountain.jpg?s=612x612&w=0&k=20&c=0sr84d9kAOfwcUbXjstKihBUZZEY7clgwgoQoC5acJc=",
+    "https://media.istockphoto.com/id/641815248/photo/high-altitude-gurudngmar-lake-in-north-sikkim-india.jpg?s=612x612&w=0&k=20&c=nc1xReGcMEZamP-tY8M6A9cM98-lJcSmT72jpq6hP0s=",
+    "https://media.istockphoto.com/id/1454993071/photo/gurudongmar-lake.jpg?s=612x612&w=0&k=20&c=mMo7Lq1j-oUW22EdC95cWg6b0h2gpbdLLXPOt_9-zGo=",
+    "https://media.istockphoto.com/id/979247632/photo/gurudongmar-lake.jpg?s=612x612&w=0&k=20&c=zSp_AtrlnjlvB5NaEI-YjwCriBmLlWhfdPyqkF4ROlQ="
+  ],
+  "state": "Sikkim",
+  "bestTimeToVisit": "November to February",
+  "idealDuration": " 2 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": " From Bagdogra Airport, take a taxi to reach Lachen (201 km away). Spend a night at Lachen and travel to the lake by road the next day.",
+    "byTrain": " New Jalpaiguri railway station is 259 km from the lake. You can hire a taxi from there too. ",
+    "byRoad": "Hire a cab to travel from Gangtok to Lachen to the lake. "
+  }
+},
+{
+  "_id": {
+    "$oid": "66dae4948d84290e85b8e58f"
+  },
+  "id": 30,
+  "name": "Lake Pichola in Udaipur",
+  "description": "Apart from being the oldest lake in Udaipur, Lake Pichola is also one of the largest. The serene artificial fresh water of the lake reflects the Aravalli Mountains, which makes a boat ride worth it. Impressive palaces, Ghats and temples surround the lake, casting a magical light after sunset.",
+  "imageUrl": [
+    "https://media.istockphoto.com/id/514102692/photo/udaipur-city-palace-in-rajasthan-state-of-india.jpg?s=612x612&w=0&k=20&c=bYRDPOuf6nFgghl6VAnCn__22SFyu_atC_fiSCzVNtY=",
+    "https://media.istockphoto.com/id/157569856/photo/udaipur-lake-palace.jpg?s=612x612&w=0&k=20&c=VvMTA1DugiV3a68Hk-glWmHzbQ49v3oC5cTsDgVGNas=",
+    "https://media.istockphoto.com/id/629006734/photo/city-palace-and-pichola-lake-in-udaipur-india.jpg?s=612x612&w=0&k=20&c=qhP5o-dpZoWuRdCyrOVJfu6IHf7472QGovEJmytYzrI=",
+    "https://media.istockphoto.com/id/885734676/photo/jag-mandir-palace-lake-pichola-udaipur-rajasthan-india.jpg?s=612x612&w=0&k=20&c=a3XkxjQp-bgFQDHTDCHKyUnWBqXYyk_6FazDC7EQcZE=",
+    "https://media.istockphoto.com/id/1001709212/photo/lake-pichola-and-taj-lake-palace-udaipur-india.jpg?s=612x612&w=0&k=20&c=u1MEJOWhbykKV4NdYqSvV5p5rdu0vQEige2Wx7JB9NQ="
+  ],
+  "state": "Rajasthan",
+  "bestTimeToVisit": " October to March",
+  "idealDuration": " 1-2 days",
+  "category": "Heritage-destination",
+  "categoryID": "3",
+  "howToReach": {
+    "byAir": " Fly to Maharana Pratap Airport in Udaipur and then take a cab to reach the lake, which is 31 km away.",
+    "byTrain": " Take a train from Ajmer, Sealdah or Ahmedabad to reach Udaipur. Then, hire a taxi.",
+    "byRoad": "You can take a state or private bus to reach Udaipur from Jodhpur, Bhilwara or Chittorgarh. "
+  }
+}]
