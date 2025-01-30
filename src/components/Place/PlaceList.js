@@ -35,17 +35,6 @@ export const PlaceList = () => (
 
         <TextField source="latitude"  label="Latitude"/>
         <TextField source="longitude"  label="longitude"/>
-
-            
-            
-            {/* <ArrayField source="opening_hours">
-                <SingleFieldList>
-                    <TextField source="day" label="Day" />
-                    <TextField source="open" label="Open" />
-                    <TextField source="close" label="Close" />
-                </SingleFieldList>
-            </ArrayField> */}
-
             
             <TextField source="contact_info.phone" label="Phone" />
             <TextField source="contact_info.email" label="Email" />

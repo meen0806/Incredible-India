@@ -36,9 +36,21 @@ export const PlaceEdit = (props) => {
         <TextInput source="name" label="Place Name" />
         <TextInput source="description" label="Description" />
 
-        <ReferenceInput source="location_id" label="Location" reference="locations">
+        {/* <ReferenceInput source="location_id" label="Location" reference="locations">
           <SelectInput optionText="name" />
-        </ReferenceInput>
+        </ReferenceInput> */}
+                <SelectInput 
+                  source="location_id" 
+                  label="Location" 
+                  choices={filteredLocation.map(location => ({
+                    id: location.id,
+                    name: location.name,
+                  }))}
+                  optionText="name"
+                  optionValue="id"
+                  emptyText="No Location Id"
+                />
+        
 
         <ReferenceInput source="category_id" label="Category" reference="categories">
           <SelectInput optionText="name" />

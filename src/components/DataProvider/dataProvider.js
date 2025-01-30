@@ -11,21 +11,40 @@ const dataProvider = {
   create: (resource, params) => {
     if (["locations", "categories", "places", "transport"].includes(resource)) {
       const formData = new FormData();
-  
-      if (!params.data.parent_id) {
+
+
+
+      if (resource=="locations" && !params.data.parent_id) {
         params.data.parent_id = null;
       }
 
+      if (resource === "locations") {
+        
+        if (params.data.picture && params.data.picture.rawFile) {
+          formData.append("picture", params.data.picture.rawFile); 
+        }
+      }
+
+
+      console.log("params.data:", params.data);
+      console.log("params.data.pictures:", params.data.pictures);
+  
       Object.keys(params.data).forEach((key) => {
         if (key === "pictures" && Array.isArray(params.data[key])) {
-          params.data[key].forEach((file) => {
-            if (file.rawFile) {
-              formData.append("pictures", file.rawFile); 
+          params.data[key].forEach((fileObj) => {
+            if (fileObj.rawFile) {
+              console.log("Appending file:", fileObj.rawFile);
+              formData.append('pictures', fileObj.rawFile); 
             }
           });
-        } else if (key === "picture" && params.data[key]?.rawFile) {
-          formData.append("picture", params.data[key].rawFile); 
+        } else if (key === "location_id" || key === "category_id") {
+          
+          formData.append(key, params.data[key]);
+        } else if (key === "contact_info" || key === "opening_hours") {
+          
+          formData.append(key, JSON.stringify(params.data[key]));
         } else {
+          
           formData.append(key, params.data[key]);
         }
       });
@@ -40,7 +59,7 @@ const dataProvider = {
   
     return Promise.reject("Unknown resource!");
   },  
-
+  
   getList: (resource, params) => {
     if (
       resource === "locations" ||

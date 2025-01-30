@@ -2,13 +2,23 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import { ThemeProvider, createTheme } from "@mui/material/styles";
+import { Provider } from 'react-redux';
+import store from './redux/store';
+
 // import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const theme = createTheme(); // You can customize the theme here
+
 root.render(
   <React.StrictMode>
+    <Provider store={store}>
+    <ThemeProvider theme={theme}>
     <App />
-  </React.StrictMode>
+  </ThemeProvider>
+  </Provider>
+ </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function

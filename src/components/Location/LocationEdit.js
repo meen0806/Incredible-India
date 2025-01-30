@@ -3,7 +3,7 @@ import { Edit,SimpleForm,TextInput,SimpleFormIterator, useGetList, BooleanInput,
 export const LocationEdit = (props) => {
 const { data: locations, isLoading } = useGetList("locations", {
 
-    pagination: { page: 2, perPage:10 },
+    pagination: { page: 1, perPage:100 },
     sort: { field: "name", order: "ASC" },
     filter: {},
 });

@@ -1,5 +1,7 @@
 import React from "react";
 import {Admin,Resource,} from "react-admin";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 import dataProvider from "./components/DataProvider/dataProvider"; 
 
 
@@ -19,16 +21,26 @@ import { PlaceEdit } from "./components/Place/PlaceEdit";
 import { TransportCreate } from "./components/Transport/TransportCreate";
 import { TransportList } from "./components/Transport/TransportList";
 import { TransportEdit } from "./components/Transport/TransportEdit";
+import { HomePage } from "./User/HomePage";
 
 
 
 const App = () => (
-  <Admin dataProvider={dataProvider}>
-      <Resource name="locations" create={LocationCreate} edit={LocationEdit} list={LocationList}/>
-      <Resource name="categories" create={CategoryCreate} list={CategoryList} edit={CategoryEdit}/>
-      <Resource name="places" create={PlaceCreate}  edit={PlaceEdit} list={PlaceList}/>
-      <Resource name="transport" create={TransportCreate} edit={TransportEdit} list={TransportList}/>
-     </Admin>
+  <Router>
+    <Routes>
+ 
+       <Route path="/*" element={
+         <Admin dataProvider={dataProvider}>
+                    <Resource name="locations" create={LocationCreate} edit={LocationEdit} list={LocationList} />
+                    <Resource name="categories" create={CategoryCreate} list={CategoryList} edit={CategoryEdit} />
+                    <Resource name="places" create={PlaceCreate} edit={PlaceEdit} list={PlaceList} />
+                    <Resource name="transport" create={TransportCreate} edit={TransportEdit} list={TransportList} />
+                </Admin>
+     
+            } />
+             <Route path="/homepage" element={<HomePage />} />
+     </Routes>
+    </Router>
 );
 
 export default App;

@@ -1,0 +1,54 @@
+/* Footer Styles */
+.footer {
+    background: url("../../assets/india-gate-mornings\ 1@2x.png") no-repeat center center;
+    background-size: cover;
+    /* opacity:0.9; */
+    padding: 50px 20px;
+  }
+  
+  .footer-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    color:white;
+    margin: auto;
+  }
+  
+  .footer-section {
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-logo h4 {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .footer-section h6 {
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+  
+  .footer-contact p {
+    font-size: 14px;
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-icon {
+    margin-right: 10px;
+  }
+  

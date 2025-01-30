@@ -1,0 +1,58 @@
+.DestinationBanner{
+    background: url("../../assets/4848108\ 1.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.destination-top{
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Des-heading{
+    font-family: Helvetica;
+   
+    
+    line-height: 91.99px;
+    color: #698DD9;
+
+}
+.discoverMore-btn{
+margin-top:30px;
+}
+
+.desOuterDiv{
+    justify-content: center;
+    padding: 0;
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:40px
+  
+}
+.desDiv{
+
+    border-radius:5px;
+    width:310px;
+    height: 279px;
+}
+
+.desImg{
+    border-radius:5px;
+    /* opacity: 0.8; */
+} 
+
+
+.overlayText {
+    
+    position: absolute;
+    text-align: center;
+    bottom:10%;
+    left:30%;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
